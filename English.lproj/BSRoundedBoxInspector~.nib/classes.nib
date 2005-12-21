@@ -1,0 +1,23 @@
+{
+    IBClasses = (
+        {
+            CLASS = BSRoundedBoxInspector; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                backgroundColor = NSColorWell; 
+                borderColor = NSColorWell; 
+                borderWidth = NSTextField; 
+                drawsFullTitleBar = NSButton; 
+                drawsGradientBackground = NSButton; 
+                gradientEndColor = NSColorWell; 
+                gradientStartColor = NSColorWell; 
+                selected = NSButton; 
+                title = NSTextField; 
+                titleColor = NSColorWell; 
+            }; 
+            SUPERCLASS = IBInspector; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}

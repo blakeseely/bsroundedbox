@@ -1,0 +1,13 @@
+{
+    IBClasses = (
+        {CLASS = BSRoundedBox; LANGUAGE = ObjC; SUPERCLASS = NSBox; }, 
+        {
+            CLASS = BSRoundedBoxPalette; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {roundedBox = BSRoundedBox; }; 
+            SUPERCLASS = IBPalette; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}

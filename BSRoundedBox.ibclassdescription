@@ -1,0 +1,13 @@
+{
+	BSRoundedBox = {
+		SuperClass = NSView;
+		Attributes = {
+			"borderColor" = {};
+			"titleColor" = {};
+			"gradientStartColor" = {};
+			"gradientEndColor" = {};
+			"backgroundColor" = {};
+			"drawsFullTitleBar" = {};
+		};
+	};
+}
