@@ -1,4 +1,11 @@
 //
+//  BSRoundedBox
+//
+//  Updated by Blake Seely on 01/05/2006
+//  Copyright 2006 Blake Seely (http://www.blakeseely.com) and Matt Gemmell (see below)
+//  Permissions and License are the same as below, but please include credit to me (Blake Seely) as well as Matt.
+//
+//
 //  RoundedBox
 //
 //  Created by Matt Gemmell on 01/11/2005.

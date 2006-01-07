@@ -1,4 +1,10 @@
 //
+//  BSRoundedBox
+//
+//  Updated by Blake Seely on 01/05/2006
+//  Copyright 2006 Blake Seely (http://www.blakeseely.com) and Matt Gemmell (see below)
+//  Permissions and License are the same as below, but please include credit to me (Blake Seely) as well as Matt.
+//
 //  RoundedBox
 //
 //  Created by Matt Gemmell on 01/11/2005.
@@ -21,7 +27,7 @@
 //  If you do use or redistribute this code, an email would be 
 //  appreciated, just to let me know that people are finding my 
 //  code useful. You can reach me at matt.gemmell@gmail.com
-//
+
 
 #import <Cocoa/Cocoa.h>
 #import <QuartzCore/CoreImage.h> // needed for Core Image
