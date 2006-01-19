@@ -171,11 +171,6 @@
 #pragma mark Drawing
 
 - (void)drawRect:(NSRect)rect {
-	NSLog([[NSNumber numberWithFloat:borderWidth] stringValue]);
-	NSLog([titleColor description]);
-	NSLog([gradientStartColor description]);
-	NSLog([gradientEndColor description]);
-	
     // Construct rounded rect path
     NSRect boxRect = [self bounds];
     NSRect bgRect = boxRect;
