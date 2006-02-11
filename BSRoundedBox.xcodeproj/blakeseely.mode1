@@ -281,13 +281,12 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>21</integer>
-									<integer>17</integer>
-									<integer>0</integer>
+									<integer>36</integer>
+									<integer>34</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {252, 628}}</string>
+							<string>{{0, 144}, {252, 628}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -336,7 +335,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>28E4B69E096F3DD2002837E7</string>
+										<string>28EED497099D6C59008C4939</string>
 										<key>history</key>
 										<array>
 											<string>28665CAC09576E58005E5130</string>
@@ -350,7 +349,7 @@
 											<string>28E4B689096F3DB2002837E7</string>
 											<string>28E4B68A096F3DB2002837E7</string>
 											<string>28E4B68B096F3DB2002837E7</string>
-											<string>28665DE109577A19005E5130</string>
+											<string>28EED470099D6AD9008C4939</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -366,15 +365,6 @@
 											<string>28665CC309576E58005E5130</string>
 											<string>28665CC409576E58005E5130</string>
 											<string>28665D2509576F79005E5130</string>
-											<string>28E4B68C096F3DB2002837E7</string>
-											<string>28E4B68D096F3DB2002837E7</string>
-											<string>28E4B68E096F3DB2002837E7</string>
-											<string>28E4B68F096F3DB2002837E7</string>
-											<string>28E4B690096F3DB2002837E7</string>
-											<string>28E4B691096F3DB2002837E7</string>
-											<string>28E4B692096F3DB2002837E7</string>
-											<string>28E4B693096F3DB2002837E7</string>
-											<string>28E4B694096F3DB2002837E7</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -432,9 +422,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>28E4B67E096F3C1A002837E7</string>
+				<string>28EED472099D6AD9008C4939</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>28E4B67F096F3C1A002837E7</string>
+				<string>28EED473099D6AD9008C4939</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -569,8 +559,6 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>28665CC609576E58005E5130</string>
-		<string>1CD10A99069EF8BA00B06720</string>
-		<string>28E4B69D096F3DB2002837E7</string>
 		<string>/Users/blakeseely/Desktop/All Projects/BSRoundedBox/BSRoundedBox.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
@@ -651,7 +639,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>28665CC609576E58005E5130</string>
-				<string>28E4B696096F3DB2002837E7</string>
+				<string>28EED48D099D6BE0008C4939</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
